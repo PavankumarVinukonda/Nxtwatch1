@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.link {
+  list-style: none;
+  text-decoration: none;
+}

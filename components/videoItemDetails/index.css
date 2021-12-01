@@ -1,0 +1,17 @@
+.icon {
+  color: #94a3b8;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+
+.horizantalLine {
+  width: 80vw;
+  color: #94a3b8;
+  border: #94a3b8 solid 1px;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+}
